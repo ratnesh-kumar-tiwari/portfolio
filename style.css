@@ -149,15 +149,14 @@ font-size: 25px;
  .container ul li  .fa-phone{
     color: #002639;
     list-style-type: none;
-     font-size: 22px;
+     font-size: 20px;
     border: 1px solid #002639 ;
     border-radius: 50%;
    
   }
   .container ul li .fa-envelope {
     color: #002639;
-
-     font-size: 22px;
+    font-size: 20px;
     border: 1px solid #002639 ;
     border-radius: 50%;
    
