@@ -3,7 +3,8 @@
 .about-me-content{
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-size:16px;
-  font-weight: 500;
+  font-weight: 600;
+  color: #002639;
 }
 .btn-primary:hover{
 background-color: white;
@@ -79,7 +80,7 @@ color: 0000FF;
 }
 .card-text{
   font-family: 'Roboto', sans-serif;
-  font-weight: 700;
+  font-weight: 600;
     margin: 20px;
     color: #002639;
   
