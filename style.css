@@ -1,6 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
 
-
+.about-me-content{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size:16px;
+}
 .btn-primary:hover{
 background-color: white;
  color: #007bb5;
